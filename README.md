@@ -7,11 +7,11 @@ This repository presents my work in developing a foundational backend server usi
 - [x] Set up project structure and dependencies.
 - [x] Design and implement a simple backend service structure. 
 - [x] Implement simple CRUD functionality
-- [ ] Integrate Hibernate ORM with h2
-- [ ] Junit test to verify functionality
+- [x] Integrate Hibernate ORM with h2
+- [x] Integrate Junit Testing
+- [x] Implement basic Spring Security features. (CORS).
 - [ ] Integrate Swagger and OpenAPI for documentation.
 - [ ] Integrate MySQL
-- [ ] Implement basic Spring Security features.
 - [ ] Improve documentation and API references.
 - [ ] Contanerize backend application.
 
